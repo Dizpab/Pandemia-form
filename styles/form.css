@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.h1{
+    color: white;
+    text-shadow: 4px 0px 4px black;
+    
+}
+
+.body {
+    background-image: url(../assets/images/fusion-medical-animation-rnr8D3FNUNY-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.world-map{
+margin: 20px;
+padding: 30px;
+}
+
+.world-map img{
+    width: 100%;
+}
+
+.container {
+    color: white;
+    text-shadow: 4px 0px 4px black;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.statistics-title {
+    color: white;
+    text-shadow: 4px 0px 4px black;
+    margin-left: 20px;
+}
+
+.statistics{
+    background-image: url(../assets/images/america-sur.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.table {
+    background-color:rgb(229, 212, 171);
+    width: 80%;
+    margin-left: 20px;
+    margin-top: 30px;
+
+}
